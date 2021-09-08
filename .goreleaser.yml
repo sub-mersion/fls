@@ -27,3 +27,8 @@ changelog:
     exclude:
       - '^docs:'
       - '^test:'
+brews:
+  - github:
+    owner: sub-mersion
+    name: homebrew-fls
+  homepage: https://github.com/sub-mersion/fls
