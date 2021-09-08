@@ -28,8 +28,9 @@ changelog:
       - '^docs:'
       - '^test:'
 brews:
-  - tap:
-    owner: sub-mersion
-    name: homebrew-fls
-  homepage: https://github.com/sub-mersion/fls
-  description: fls produces paletted black and white images using the Floyd-Steinberg dithering algorithm
+  -
+    tap:
+      owner: sub-mersion
+      name: homebrew-fls
+    homepage: https://github.com/sub-mersion/fls
+    description: fls produces paletted black and white images using the Floyd-Steinberg dithering algorithm
